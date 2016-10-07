@@ -1,0 +1,8 @@
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Debug\MqttClient.exe.config
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\obj\Debug\MqttClient.csprojResolveAssemblyReference.cache
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Debug\MqttClient.exe
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Debug\MqttClient.pdb
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Debug\M2Mqtt.Net.dll
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Debug\M2Mqtt.Net.pdb
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\obj\Debug\MqttClient.exe
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\obj\Debug\MqttClient.pdb

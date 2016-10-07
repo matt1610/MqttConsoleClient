@@ -1,0 +1,7 @@
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Release\MqttClient.exe.config
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Release\MqttClient.exe
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Release\MqttClient.pdb
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Release\M2Mqtt.Net.dll
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\bin\Release\M2Mqtt.Net.pdb
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\obj\Release\MqttClient.exe
+c:\users\matthews\documents\visual studio 2015\Projects\MqttClient\MqttClient\obj\Release\MqttClient.pdb
